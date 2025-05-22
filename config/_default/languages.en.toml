@@ -1,0 +1,26 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sage Kretschmann"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "January 2 2006"
+logo = "SKlogo.png"
+copyright = "© Sage Kretschmann { year }"
+
+[params.author]
+    name = "Sage Kretschmann"
+    image = "fullsqr.jpg"
+    email = "jomegas.k@gmail.com"
+    headline = "I'm Sage, and this is my website."
+    links = [
+        { github = "https://github.com/kretschs" },
+        { discord = "https://discord.com/users/1161019089284775947" },
+        { linkedin = "https://www.linkedin.com/in/sage-kretschmann"}
+    ]
+
+
