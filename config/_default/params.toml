@@ -1,13 +1,22 @@
 colorScheme = "congo"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = ""
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+firebase = { }
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
+rssnext = { }
+defaultFeaturedImage = "featured.png"
+highlightCurrentMenuArea = true
 
 [header]
 layout = "fixed"
@@ -82,8 +91,6 @@ showLikes = false
 showTableOfContents = false
 cardView = false
 
-
-
 [term]
 showHero = false
 showBreadcrumbs = false
@@ -93,17 +100,3 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
-
-[firebase]
-
-[fathomAnalytics]
-
-[umamiAnalytics]
-
-[selineAnalytics]
-
-[buymeacoffee]
-
-[verification]
-
-[rssnext]

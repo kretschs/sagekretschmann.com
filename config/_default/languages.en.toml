@@ -11,16 +11,19 @@ rtl = false
 dateFormat = "January 2 2006"
 logo = "SKlogo.png"
 copyright = "© Sage Kretschmann { year }"
+description = "I'm Sage, welcome!"
 
-[params.author]
-    name = "Sage Kretschmann"
-    image = "fullsqr.jpg"
-    email = "jomegas.k@gmail.com"
-    headline = "I'm Sage, and this is my website."
-    links = [
-        { github = "https://github.com/kretschs" },
-        { discord = "https://discord.com/users/1161019089284775947" },
-        { linkedin = "https://www.linkedin.com/in/sage-kretschmann"}
-    ]
+  [params.author]
+  name = "Sage Kretschmann"
+  image = "fullsqr.jpg"
+  email = "jomegas.k@gmail.com"
+  headline = "I'm Sage, and this is my website."
 
+    [[params.author.links]]
+    github = "https://github.com/kretschs"
 
+    [[params.author.links]]
+    discord = "https://discord.com/users/1161019089284775947"
+
+    [[params.author.links]]
+    linkedin = "https://www.linkedin.com/in/sage-kretschmann"
