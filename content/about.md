@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2025-05-01
 draft: false
-description: "a description"
+description: "Who am I?"
 tags: ["example", "tag"]
 showDate: false
 ---

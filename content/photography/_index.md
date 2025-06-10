@@ -3,14 +3,7 @@ title: "Photography"
 date: 2025-05-01
 draft: false
 description: "a description"
-tags: ["example", "tag"]
-series: ["d"]
+tags: []
+series: []
 ---
- an example to get you started
-# This is a heading
-## This is a subheading
-### This is a subsubheading
-#### This is a subsubsubheading
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+I like to take pictures! This section of my website contains photography projects of mine as well as other pictures I'm proud of.
